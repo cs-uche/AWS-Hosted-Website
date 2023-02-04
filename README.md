@@ -1,1 +1,10 @@
-# hugo-cd-pipeline
+       _____ ____      __    __  _____ __    __ _____
+      /  __ | __ |    |  |  |  |/  __ |  |__|  |  ___|
+                                                  ___
+     |  |   \____ \   |  |  |  |  |   |   __   |  ___|
+     |  |__  ____) |  |  \__/  |  |__ |  |  |  |  ___
+      \_____|_____/    \ ____ / \_____|__|  |__|_____|
+ ----------------------------------------------------------------- 
+<i>Little art inspired by AWS Cloud9 above</i>
+
+## Creating a Continuous Delivery Pipeline for an AWS hosted Website
